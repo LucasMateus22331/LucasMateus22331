@@ -5,8 +5,17 @@ Tenho interesse em oportunidades que me permitam crescer, aplicar conhecimentos 
 -  Atualmente estou trabalhando em um projeto de um banco , entendendo a logica de toda estrutura 
 -  Estou aprendendo: **[Java e logica ] e [banco de dados]**
 -  Curiosidade: **[Adoro desafios e projetos complexos]**
--  Linkedln: **[www.linkedin.com/in/lucas-mateus-0bbab7281]**
--  Contato: **[Lucasmlimasantos18@gmail.com]**
+
+-  
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-mateus-0bbab7281" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:lucasmlimasantos18@email.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
